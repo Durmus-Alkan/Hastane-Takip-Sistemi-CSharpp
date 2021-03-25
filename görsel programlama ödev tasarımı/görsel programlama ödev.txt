@@ -1,0 +1,2 @@
+Bir hastanede yapılan muayene, reçete, ameliyat vb. işlemlerin takibini yapmak
+amacıyla kullanılacak bir otomasyon. 
